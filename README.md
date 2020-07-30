@@ -1,2 +1,2 @@
 # Udacity
-assignments and workings
+assignments and related content from Udacity's Data Analyst Nanodegree
